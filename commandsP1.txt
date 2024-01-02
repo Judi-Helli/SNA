@@ -1,0 +1,37 @@
+AU
+AU A
+AU A
+AU B
+AU C
+AU D
+AU C
+RU
+RU C
+RU X
+AR
+AR A
+AR A B
+AR A B
+AR A X
+AR A C
+AR B D
+RR
+RR A
+RR Z A
+RR D B
+RR D B
+AU C
+AU E
+AU F
+AR A C
+AR A F
+AR B F
+AR D F
+AR C D
+PA
+PA 50
+PA 3
+SA
+SA A
+SA A 2
+
