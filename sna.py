@@ -75,7 +75,7 @@ def saCommand(args, graph):
 
 def main():
     graph = {}
-    with open('Desktop/Notes/programming/commandsP1.txt') as commandsP1:
+    with open('commandsP1.txt') as commandsP1:
         for line in commandsP1:
             args = line.split()
             if args[0] == "AU":
